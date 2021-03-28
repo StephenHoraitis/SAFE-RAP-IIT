@@ -141,7 +141,7 @@ Thousands of animals are euthanized each year in the USA and Australia alone. Th
 
 The number of dogs and cats put in shelters and euthanized each year is alarmingly high. “Each year, approximately 1.5 million shelter animals are euthanized (670,000 dogs and 860,000 cats)” in the U.S. alone (Pet Statistics 2015, para. 2) with a total of “28,072” dogs, and “45,364” cats being brought into the RSPCA in the 2019-2020 financial year (RSPCA 2021, para. 3) . (Figure 5)
 
-<img src="media\image5.png" style="width:1.97083in;height:2.22361in" />
+<img src="media\image5.png" style="width:2.97083in;height:3.22361in" />
 **Figure 5**: Total animals received 2019-2020 (RSPCA 2021)
 
 Whilst this application may not solve the problem at hand, it give the animals a higher chance of being rescued than the currently have, it gives those looking to purchase a pet an alternate option, as well as highlight animal shelters and the issue to the public. For instance, if we could just save ten percent of dogs given up in the USA alone, we have the potential to save around 67,000 animals, which is still incredible. (Figure 6, a dog waiting to be rescued)
