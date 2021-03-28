@@ -4,7 +4,7 @@
 
 **E: <S3900150@student.rmit.edu.au>**
 
-**GitHub Repository:** SAFE-RAP-IIT
+**GitHub Repository: <https://github.com/StephenHoraitis/SAFE-RAP-IIT.git>**
 
 **GitHub Pages URL: <https://stephenhoraitis.github.io/SAFE-RAP-IIT/>**
 
