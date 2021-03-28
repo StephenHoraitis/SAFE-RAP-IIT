@@ -66,7 +66,7 @@ A solution architect’s job is to create a design for applications or systems w
 
 ## Skills: 
 
-Currently, whilst I have to an extent, the skills in terms of my ability to communicate, discipline, teamwork, perseverance, and problem solving, I still lack significantly in these areas. Furthermore, I am completely new to learning the tools required within this field. The closest I have come to learning how to work with anything technology related was in my year 10 programming class, in which we were briefly taught how to use the program “Scratch”. Therefore, I recognise that I have no usuable skills in technology at this time, but I’m here to learn!
+Currently, whilst I have to an extent, the skills in terms of my ability to communicate, discipline, teamwork, perseverance, and problem solving, I still lack significantly in these areas. Furthermore, I am completely new to learning the tools required within this field. The closest I have come to learning how to work with anything technology related was in my year 10 programming class, in which we were briefly taught how to use the program “Scratch”. Therefore, I recognise that I have no usable skills in technology at this time, but I’m here to learn!
 
 ## Skills Required: 
 
