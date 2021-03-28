@@ -62,7 +62,7 @@ The snapshot for the role is below in Figure 2.
 
 ## Description
 
-A solution architect’s job is to create a design for applications or systems within an organisation. According to my personality traits, I tend to be independent and creative. Therefore, I believe that this type of role would better suit my personality. I would be able to create designs based on my vision, as opposed to working as a developer who merely creates based of another’s ideas.
+A solution architect’s job is to create a design for applications or systems within an organisation. According to my personality traits, I tend to be independent and creative. Therefore, I believe that this type of role would better suit my personality. I would be able to create designs based on my vision, as opposed to working as a developer who merely creates based on another’s ideas.
 
 ## Skills: 
 
