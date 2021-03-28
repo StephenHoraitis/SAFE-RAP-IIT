@@ -12,7 +12,8 @@
 
 My name is Stephen Horaitis (see Figure 1) and I am 19 years old as of the 10th of February. I have lived in Melbourne, Australia all my live and come from a Greek family, which therefore means that I can also speak, read, and write Greek. Currently, the highest level of education that I have completed is Year 12 VCE in 2020, and am now studying a Bachelor of Information Technology at RMIT University. As for my hobbies, I have taken part in my local tennis club, soccer club and swimming club. Furthermore, over the years I have completed up to Grade 5 in electric guitar and have also received my third dan black belt in Taekwondo.
 
-<img src="media\image1.jpeg" style="width:3.09028in;height:2.31736in" />
+
+<img src="media\image1.png" style="width:3.09028in;height:2.31736in" />
 **Figure 1:** Stephen Horaitis
 
 # Interest in IT:
