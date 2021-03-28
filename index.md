@@ -115,7 +115,7 @@ I completed this test to identify what kind of learning style suits me, these ar
 
 -   Auditory 25%, Visual 30%, Tactile: 45% (education planner 2020)
 
-This learning test has come back with the results of me being a “tactile” learner, meaning that I am able to understand more so and remember by performing the task at hand than merely listening to and trying to remember another person’s descriptions. Furthermore, it has indicated that I am required to take numerous breaks throughout my studies in order to be better focused. IT is a tactile kind of environment, so I am hoping is suits me.
+This learning test has come back with the results of me being a “tactile” learner, meaning that I am able to understand more so and remember by performing the task at hand than merely listening to and trying to remember another person’s descriptions. Furthermore, it has indicated that I am required to take numerous breaks throughout my studies in order to be better focused. IT is a tactile kind of environment, so I am hoping it suits me.
 
 ## Test 3: The Big 5
 
