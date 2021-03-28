@@ -46,7 +46,7 @@ RMIT’s campus is spread across Melbourne city, which allows for easy accessibi
 
 Finally, it was the universities virtual open-day and materials sent to prospect students which I found was the best of all universities, therefore leading me to have RMIT as my preference.
 
-**<u>IDEAL JOB:</u>**
+# Ideal Job:
 
 **Job Advertisement:**
 
