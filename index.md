@@ -144,6 +144,7 @@ The number of dogs and cats put in shelters and euthanized each year is alarming
 <img src="media\image5.png" style="width:2.97083in;height:3.22361in" />
 **Figure 5**: Total animals received 2019-2020 (RSPCA 2021)
 
+
 Whilst this application may not solve the problem at hand, it give the animals a higher chance of being rescued than the currently have, it gives those looking to purchase a pet an alternate option, as well as highlight animal shelters and the issue to the public. For instance, if we could just save ten percent of dogs given up in the USA alone, we have the potential to save around 67,000 animals, which is still incredible. (Figure 6, a dog waiting to be rescued)
 
 <img src="media\image6.png" style="width:3.16944in;height:2.24097in" />
