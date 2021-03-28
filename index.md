@@ -10,8 +10,8 @@
 
 # Personal Information:
 
-<img src="media\image1.jpeg" style="width:3.09028in;height:2.31736in" />My name is Stephen Horaitis (see Figure 1) and I am 19 years old as of the 10th of February. I have lived in Melbourne, Australia all my live and come from a Greek family, which therefore means that I can also speak, read, and write Greek. Currently, the highest level of education that I have completed is Year 12 VCE in 2020, and am now studying a Bachelor of Information Technology at RMIT University. As for my hobbies, I have taken part in my local tennis club, soccer club and swimming club. Furthermore, over the years I have completed up to Grade 5 in electric guitar and have also received my third dan black belt in Taekwondo.
-
+My name is Stephen Horaitis (see Figure 1) and I am 19 years old as of the 10th of February. I have lived in Melbourne, Australia all my live and come from a Greek family, which therefore means that I can also speak, read, and write Greek. Currently, the highest level of education that I have completed is Year 12 VCE in 2020, and am now studying a Bachelor of Information Technology at RMIT University. As for my hobbies, I have taken part in my local tennis club, soccer club and swimming club. Furthermore, over the years I have completed up to Grade 5 in electric guitar and have also received my third dan black belt in Taekwondo.
+<img src="media\image1.jpeg" style="width:3.09028in;height:2.31736in" />
 **Figure 1:** Stephen Horaitis
 
 # Interest in IT:
@@ -137,12 +137,14 @@ Thousands of animals are euthanized each year in the USA and Australia alone. Th
 
 ## Motivation 
 
-<img src="media\image5.png" style="width:1.97083in;height:2.22361in" />The number of dogs and cats put in shelters and euthanized each year is alarmingly high. “Each year, approximately 1.5 million shelter animals are euthanized (670,000 dogs and 860,000 cats)” in the U.S. alone (Pet Statistics 2015, para. 2) with a total of “28,072” dogs, and “45,364” cats being brought into the RSPCA in the 2019-2020 financial year (RSPCA 2021, para. 3) . (Figure 5)
+The number of dogs and cats put in shelters and euthanized each year is alarmingly high. “Each year, approximately 1.5 million shelter animals are euthanized (670,000 dogs and 860,000 cats)” in the U.S. alone (Pet Statistics 2015, para. 2) with a total of “28,072” dogs, and “45,364” cats being brought into the RSPCA in the 2019-2020 financial year (RSPCA 2021, para. 3) . (Figure 5)
 
+<img src="media\image5.png" style="width:1.97083in;height:2.22361in" />
 **Figure 5**: Total animals received 2019-2020 (RSPCA 2021)
 
-<img src="media\image6.png" style="width:3.16944in;height:2.24097in" />Whilst this application may not solve the problem at hand, it give the animals a higher chance of being rescued than the currently have, it gives those looking to purchase a pet an alternate option, as well as highlight animal shelters and the issue to the public. For instance, if we could just save ten percent of dogs given up in the USA alone, we have the potential to save around 67,000 animals, which is still incredible. (Figure 6, a dog waiting to be rescued)
+Whilst this application may not solve the problem at hand, it give the animals a higher chance of being rescued than the currently have, it gives those looking to purchase a pet an alternate option, as well as highlight animal shelters and the issue to the public. For instance, if we could just save ten percent of dogs given up in the USA alone, we have the potential to save around 67,000 animals, which is still incredible. (Figure 6, a dog waiting to be rescued)
 
+<img src="media\image6.png" style="width:3.16944in;height:2.24097in" />
 **Figure 6**: Source: Pet Statistics, 2015
 
 ## Description 
