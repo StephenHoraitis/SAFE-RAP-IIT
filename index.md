@@ -347,7 +347,7 @@ Svitlana Varaksina 2019, “Mobile App Payment Gateways: Stripe vs PayPal vs Bra
 
 Wikipedia Contributors 2021, “Xcode,” Wikipedia, viewed 19 March 2021, \<https://en.wikipedia.org/wiki/Xcode\>.‌
 
-‌Bibliography
+# Bibliography
 
 ― 2021b, Script to convert docx to markdown with Pandoc, Gist, viewed 27 March 2021, \<https://gist.github.com/arthurattwell/44713ec1a870c075eb5e8d7c3ef600ee\>.
 
