@@ -129,7 +129,7 @@ On this Big Five Personality test, the results have indicated that in Factor 1 I
 
 ## Overall Consensus:
 
-These results indicate that I am a more introverted person, which would mean that within a work group environment I would be less talkative when compared with an extravert. This result did not surprise me. Everyone will have a different personality, background, and experiences. It is for such reasons that when forming a group, we need to make sure that there is a mix of different personalities, in order to have broader ideas in regards to the project.
+These results indicate that I am a more introverted person, which would mean that within a work group environment I would be less talkative when compared with an extravert. This result did not surprise me. There are a few potential weaknesses that have been highlighted such as being unsystematic, unpredictable, and easily stressed.  I will need to consider these and try to address them.  Everyone will have a different personality, background, and experiences. It is for such reasons that when forming a group, we need to make sure that there is a mix of different personalities, in order to have broader ideas in regards to the project.
 
 # PROJECT IDEA – SAFE RAP (Save Animals From Euthanization – Rescue Animals Project)
 
